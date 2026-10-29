@@ -1,0 +1,68 @@
+{
+ "work": "河原院歌合",
+ "work_id": "zoku-gunsho-kawaranoin",
+ "repo": "kumoi-no-fumigura/zoku-gunsho-kawaranoin",
+ "yomi": "かわらのいんうたあわせ",
+ "category": "歌合",
+ "kind": "prose",
+ "description": null,
+ "editions": [
+  {
+   "pid": "nao-729559",
+   "title": "続群書類従 巻412（河原院歌合）",
+   "holder": "国立公文書館",
+   "form": "写本",
+   "viewer": "https://www.digital.archives.go.jp/item/729559",
+   "images": [
+    "https://www.digital.archives.go.jp/api/content/item/da12/C102597118900/iiif/M1000000000000067878_0009.jp2",
+    "https://www.digital.archives.go.jp/api/content/item/da12/C102597119000/iiif/M1000000000000067878_0010.jp2"
+   ],
+   "url": "https://www.digital.archives.go.jp/item/729559",
+   "editor": "塙保己一 編",
+   "series": "続群書類従",
+   "publisher": "",
+   "year": null,
+   "pages": ""
+  }
+ ],
+ "status": "未校正",
+ "license": {
+  "text": "CC0 1.0"
+ },
+ "blocks": [
+  {
+   "id": "zoku-gunsho-kawaranoin-0001",
+   "pid": "nao-729559",
+   "pages": [
+    1
+   ],
+   "text": "さほひめのなたてにこきもみちこあたりのかせの吹ちらさなん御伝来多弐峯歌合河原院歌合千代君歌合右一巻者小野宮忠家卿真跡但世俊成卿祖父定家卿曽祖父にて到る古代之真筆にて定家卿小倉色紙よりも遥に珍書と冷泉為村郷も賞候ニ御座候高松弾正尹好仁親王御重宝ニ御座候其より花町式部卿良仁親王御伝御重宝ニ御座候其より"
+  },
+  {
+   "id": "zoku-gunsho-kawaranoin-0002",
+   "pid": "nao-729559",
+   "pages": [
+    2
+   ],
+   "text": "有栖川兵部卿幸仁親王ニ御つたへ其より背栖一同一品中務卿織仁親王江御伝来ニ明和五年紫野大徳寺寂厳和尚へ御伝へ御座候ヲ中川主税頭豊島大舎人頭両人より世界之名物と申事にて達而申受候其より亡父左兵衛尉伝来仕罷在候候以上多武峰往生院千世君歌合題涼風入簾閑山秋月藪露為玉野花錦延水有幽音恋歌人右仁昭長昭千世君恵勝長嚴長暹左静範明・成厳修勝泉園覚暹判者"
+  }
+ ],
+ "poems": [],
+ "catalog": {
+  "work_id": "zoku-gunsho-kawaranoin",
+  "work": "河原院歌合",
+  "yomi": "かわらのいんうたあわせ",
+  "category": "歌合",
+  "order": 0,
+  "era": "",
+  "author": "",
+  "kind": "prose",
+  "blocks": 2,
+  "chars": 318,
+  "poems": 0,
+  "yaku": 0,
+  "editions": 1,
+  "updated": "2026-10-29",
+  "updated_at": "2026-10-29T20:10:33+09:00"
+ }
+}
