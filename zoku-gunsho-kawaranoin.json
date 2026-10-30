@@ -30,7 +30,14 @@
    "series": "続群書類従",
    "publisher": "",
    "year": null,
-   "pages": ""
+   "pages": "",
+   "viewers": [
+    "https://www.digital.archives.go.jp/item/734209",
+    "https://www.digital.archives.go.jp/item/734209",
+    "https://www.digital.archives.go.jp/item/734209",
+    "https://www.digital.archives.go.jp/item/734209",
+    "https://www.digital.archives.go.jp/item/729559"
+   ]
   }
  ],
  "status": "未校正",
@@ -101,7 +108,7 @@
   },
   {
    "id": "zoku-gunsho-kawaranoin-0005",
-   "pid": "nao-729559",
+   "pid": "nao-734209",
    "pages": [
     5
    ],
