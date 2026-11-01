@@ -391,6 +391,10 @@
    "dai": "勝"
   }
  ],
+ "translation": {
+  "count": 5,
+  "note": "AI による現代語訳"
+ },
  "catalog": {
   "work_id": "zoku-gunsho-kawaranoin",
   "work": "河原院歌合",
@@ -403,7 +407,7 @@
   "blocks": 5,
   "chars": 1006,
   "poems": 21,
-  "yaku": 0,
+  "yaku": 5,
   "editions": 1,
   "updated": "2026-11-01",
   "updated_at": "2026-11-01T20:43:04+09:00"
